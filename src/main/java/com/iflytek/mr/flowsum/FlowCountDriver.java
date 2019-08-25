@@ -10,7 +10,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import java.io.IOException;
 
 /**
- * Created by shenheping on 2019/8/22.
+ * Driver 代码
  */
 public class FlowCountDriver {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
